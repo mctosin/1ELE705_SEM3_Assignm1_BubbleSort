@@ -32,7 +32,7 @@ int main(int argc, char** argv) {
 	// Os valores devem ser arredondados com 2 casas decimais.
 	// Crie a saída para o programa de testes automático aqui
 
-
+	
 
 	// Não modifique o código abaixo
 
